@@ -13,5 +13,5 @@ btn2.addEventListener('click',()=> {
 })
 
 img.addEventListener("click", ()=>{
-    alert("Hello! This is an new image!!");
+    alert("Hello! This is after change!!");
 })
