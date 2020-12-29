@@ -9,7 +9,7 @@ btn1.addEventListener('click', ()=> {
 })
 
 btn2.addEventListener('click',()=> {
-    img.src = "images/2.jpg"; 
+    img.src = "images/3.jpg"; 
 })
 
 img.addEventListener("click", ()=>{
