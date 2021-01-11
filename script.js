@@ -17,6 +17,10 @@ btn3.addEventListener('click',()=> {
     img.src = "images/3.jpg"; 
 })
 
+btn4.addEventListener('click',()=> {
+    img.src = "images/4.jpg"; 
+})
+
 img.addEventListener("click", ()=>{
     alert("Hello! This after code commit!!");
 })
